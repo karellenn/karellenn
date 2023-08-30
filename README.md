@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Me:
 🔭 Atualmente estou trabalhando com Data Analyst e Consutlor de T.I<br>👯 Estou procurando colaborar desenvolvimentos com Python, Selenium, ML e Nodejs<br>🤝 Estou procurando ajuda com Ciência de dados e analise.<br>🌱 Atualmente estou aprendendo Ciência de Dados e Machine Learning<br>💬 Pergunte-me sobre LGPD e GDPR em aplicativos.<br>⚡ Curiosidade Tenho mais de 20 anos de experiência em Tecnologia & Segurança algumas empresas que já prestei serviços  (Transpetro, Netflix, Amazon e Microsoft) e agora migrando para DADOS.
 
 
